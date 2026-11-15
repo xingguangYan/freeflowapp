@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FreeFlow</string>
+    <string name="tab_studio">创作台</string>
+    <string name="tab_platforms">渠道矩阵</string>
+    <string name="tab_bridge">桌面联机</string>
+    <string name="tab_packaging">跨平台方案</string>
+
+    <string name="studio_title">自由发 · 移动创作台</string>
+    <string name="studio_subtitle">本地优先 · 离线草稿 · 局域网直连桌面引擎</string>
+    <string name="new_draft">新建稿件</string>
+    <string name="search_drafts_hint">搜索标题、标签或正文…</string>
+    <string name="empty_drafts_title">还没有本地创作草稿</string>
+    <string name="empty_drafts_desc">支持 Markdown 实时预览、零权限系统相册选图，并可随时同步至 Windows / macOS 桌面端一键分发。</string>
+    <string name="load_template_action">插入多平台排版模板</string>
+
+    <string name="editor_title_hint">输入文章或笔记标题…</string>
+    <string name="editor_tags_hint">标签（英文逗号分隔，如：AI,效率工具,开源）</string>
+    <string name="editor_body_hint">开始使用 Markdown 撰写内容…\n支持 # 标题、**加粗**、> 引用、`代码`、- 列表</string>
+    <string name="editor_mode_edit">编辑</string>
+    <string name="editor_mode_preview">预览</string>
+    <string name="editor_pick_cover">选择封面图</string>
+    <string name="editor_add_media">添加素材</string>
+    <string name="editor_sync_publish">推送至桌面端发布</string>
+    <string name="editor_export_share">导出 / 分享 Markdown</string>
+    <string name="editor_save">保存草稿</string>
+
+    <string name="platforms_title">多平台渠道与规范矩阵</string>
+    <string name="platforms_subtitle">对标 FreeFlow 支持的国内图文、视频与海外内容平台</string>
+    <string name="platforms_preset_saved">已保存默认分发预设</string>
+
+    <string name="bridge_title">Windows / 桌面引擎局域网桥接</string>
+    <string name="bridge_subtitle">通过本地 Wi-Fi 直连桌面端 HTTP 引擎（默认端口 8917），无需云端中转账号 Cookie</string>
+    <string name="bridge_ping">检测连通性</string>
+    <string name="bridge_sync_accounts">同步平台账号状态</string>
+    <string name="bridge_host_hint">例如 192.168.1.105:8917</string>
+    <string name="bridge_token_hint">可选配对密钥（如桌面端已开启）</string>
+
+    <string name="packaging_title">跨平台架构与 Windows 打包方案</string>
+    <string name="packaging_subtitle">Android APK 深度优化 + Windows 可执行端兼容路线</string>
+</resources>

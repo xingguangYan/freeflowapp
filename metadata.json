@@ -1,0 +1,6 @@
+{
+  "name": "FreeFlow",
+  "description": "Local-first multi-platform content studio and LAN remote companion for FreeFlow Desktop (Windows & macOS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
